@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dirga-online</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_list_motor_cycle">List Data Motorcycle</string>
+    <string name="title_activity_list_data_car">List Data Car</string>
+    <string name="title_activity_list_other">List Data Other</string>
+    <string name="action_settings" />
+
+</resources>
